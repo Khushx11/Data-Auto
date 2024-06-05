@@ -1,10 +1,7 @@
 # Automatic Dataset Processing Program
 
 ## By :
-### Om Bhanushali
-### Rishikesh Giridhar
-### Sravan Kotta
-### Saahil Barve
+### Khush Maru
 
 
 ## Introduction:
